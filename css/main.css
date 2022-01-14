@@ -1,0 +1,20 @@
+body {
+    background-color: lightgray;
+}
+
+h1, h3, h4, a, p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+p {
+    color:palevioletred;
+}
+
+nav {
+    margin: 3rem;
+    text-align: center;
+}
