@@ -2,7 +2,11 @@ body {
     background-color: lightgray;
 }
 
-h1, h3, h4, a, p {
+h1, h3, h4 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a, p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
