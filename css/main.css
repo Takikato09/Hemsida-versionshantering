@@ -37,5 +37,9 @@ a:visited {
 
 img {
     max-width: 100%;
-    text-align: centers;
+    margin: 2rem 20rem;
+}
+
+section {
+    margin: 3rem auto;
 }
