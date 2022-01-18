@@ -40,6 +40,11 @@ img {
     margin: 2rem 20rem;
 }
 
-section {
-    margin: 3rem auto;
+section > a{
+    margin: 3rem 3rem;
+}
+
+.sponsor-img {
+    max-width: 40%;
+    margin: auto;
 }
