@@ -1,21 +1,15 @@
 body {
-    background-color: lightgray;
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
 }
 
-h1, h3, h4, a, p {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-h3 {
-    text-transform: uppercase;
-    color: yellow;
-}
-
-p {
-    color:palevioletred;
-}
-
-nav {
-    margin: 3rem;
+.text-center {
     text-align: center;
+}
+
+.flex-wrap {
+    margin: 5px;
+    text-align: center;
+    background-color: aqua;
 }
