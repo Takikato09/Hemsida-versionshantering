@@ -37,5 +37,19 @@ a:visited {
 
 img {
     max-width: 100%;
-    text-align: centers;
+    margin: 2rem 20rem;
 }
+
+.sponsor-head {
+    text-align: center;
+}
+.sponsor-a {
+    margin-left: 3rem;
+    color:darkcyan;
+}
+.sponsor-img {
+    max-width: 40%;
+    margin: auto;
+    opacity: 0.8;
+}
+
